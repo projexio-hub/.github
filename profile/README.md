@@ -16,15 +16,6 @@ We design and develop projects that make your work **simpler, faster, and more d
 
 ---
 
-## Featured Projects  
-| Project | Description | Tech Stack |
-|---------|-------------|------------|
-| **UiCrate** | Beautiful, ready-to-use UI components to speed up your dev workflow. | Next.js, TypeScript, Convex, Tailwind, Framer Motion, Shadcn |
-| **CmdEase** | Your terminal’s productivity sidekick for faster, easier CLI workflows. | Node.js, TypeScript, Convex |
-| **AlgoFlux** | Developer analytics & insights platform. | Next.js, TypeScript, Shadcn, Convex, Tailwind CSS, Framer Motion |
-
----
-
 ## Join the Fun  
 - **Discuss:** Share your ideas in Issues.  
 - **Build:** Contribute via Pull Requests.  
