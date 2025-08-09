@@ -49,7 +49,7 @@ We welcome developers, designers, and contributors from all backgrounds. Whether
 
 ---
 
-## 📬 Connect with Us
+## Connect with Us
 - **Website:** [projexio-annu-kumari.vercel.app](https://projexio-annu-kumari.vercel.app)
 - **GitHub:** [github.com/projexio](https://github.com/projexio-hub)
 - **LinkedIn:** [Annu Kumari](https://www.linkedin.com/in/annu-kumari-540337237/)
